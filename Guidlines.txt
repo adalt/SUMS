@@ -1,0 +1,34 @@
+1. All pages or files are to be added to their respective folder except index.html
+
+2. All content written should have comments in them both 
+   at the begining and at the end(including css and javascript)
+
+3. All pages must have the same color codes or theme
+
+4. Use small letters for naming all other pages
+
+5. use the underscore "_" sign for spaces in naming files or pages
+
+6. use appropriate and unique names for the id and class attributes. Avoid using 
+   keywords like row or container. use short names.
+   *any div that is to be formatted must have an id or class. Avoid formatting
+   general tage like:
+   div{
+   
+   }
+   this will be applied to all the divs in the document which is not advisable
+   *incase of the shared css file, use the first letter of your first name as the first letter of the 
+   id or class attribute, followed by an underscore then the id or class
+   (e.g: j_tbl1, s_btns, d_tbl1, a_btns, l_tbl1)
+   j=joel, s=susan, d=denilson, a=audry, l=lilly
+
+7. Always indent your work
+
+8. Any linking of documents(css or javascript or the pages) to be done appropriatelly
+   * contact joel incase of issues
+
+9. Dont use these files as test files. If you are not sure of a code, have a
+   separate document in your pc, test it there. Any bad changes to these files
+   affect the rest of the other peoples files.
+
+10. DO NOT touch or alter anybody's code without their permission. 
