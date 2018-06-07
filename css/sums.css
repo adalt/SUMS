@@ -1,0 +1,123 @@
+/* AUDREY HEADER START */
+body{
+	margin: 0px 0px;
+}
+
+#a_bg{
+	background-color: #354e9d;
+	height: 64px;
+    width: 100%;
+}
+
+#a_header{
+	background-image: url(../images/header-background.png);
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	height: 64px;
+}
+
+#a_logo{
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+#a_logo img{
+	width: 154px;
+	height: 55px;
+	margin-right: 100px;
+
+}
+
+#a_bt li a:hover{
+    color: white;
+}
+
+#a_nav{
+	margin: 0px;
+	float: left;
+}
+
+#a_nav li{
+	list-style: none;
+	float: left;
+	color: #d1a254;
+	width: 84px;
+	padding: 13px;
+	font-size: 20px;
+	margin-top: 5px;
+}
+
+ #a_nav li a{
+	color: #d1a254;
+     text-decoration: none;
+}
+
+#a_nav2{
+	margin: 0px;
+	float: left;
+	padding-top: 16px;
+	padding-left: 100px;
+}
+
+#a_nav2 li{
+	list-style: none;
+	float: left;
+	color: #d1a254;
+	padding: 15px;
+	font-size: 15px;
+}
+
+#a_nav2 li a{
+    color: #d1a254;
+    text-decoration: none;
+}
+
+
+/* AUDREY HEADER END */
+
+
+
+/* JOEL SIGNIN  AND SIGNUP START */
+#j_form{
+    width: 30%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+#j_ico{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#j_ico i{
+    font-size:8ex;
+    
+}
+
+.j_log{
+   font-size: 20px; 
+}
+
+.j_in{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.j_intxt{
+    margin: 5px 0px;
+}
+
+#j_bt{
+    margin-top: 15px;
+    text-align: left;
+}
+
+.j_snd{
+    margin: 5px 20px;
+    margin-left: 50px;
+    float: left;
+}
+
+
+/* JOEL SIGNIN  AND SIGNUP END */
